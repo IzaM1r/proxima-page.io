@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Inter:wght@200;400;800&display=swap);
+
+body{
+  background-color: #E6E6E6;
+  border: 10px purple solid;
+  padding: 10px;
+
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  border-radius: 120px;
+  border: 12px yellow solid;
+  margin-bottom: 40px;
+
+}
+
+h1{
+  border: 10px purple solid; 
+  font-family: 'Amatic SC';
+  font-size: 144px;
+  color: #65A4A0;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2{
+  display: inline-block;
+  font-family: 'Amatic SC';
+  font-size: 72px;
+  line-height: 74px;
+  color: #080C08;
+}
+
+p{
+  display: inline-block;
+  font-family: 'Amatic SC';
+  font-size: 56px;
+  line-height: 54px;
+  color: #13423F;
+  float: right;
+}
+
+.block{
+  background-color: white;
+  margin-bottom: 20px;
+  padding:20px;
+  border-radius: 24px;
+  box-shadow: -2px black;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+}
